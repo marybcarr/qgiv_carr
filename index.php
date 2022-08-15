@@ -31,8 +31,8 @@
                 <thead>
                     <tr>
                         <th class="ui-secondary-color"><a href="generate_import.php">Generate Donors & Transactions</a></th>
-						<th class="ui-secondary-color"><a href="view_donors.php">Donors</a></th>
-						<th class="ui-secondary-color"><a href="view_transactions.php">Transactions</a></th>
+			<th class="ui-secondary-color"><a href="view_donors.php">Donors</a></th>
+			<th class="ui-secondary-color"><a href="view_transactions.php">Transactions</a></th>
                     </tr>
                 </thead>
                 <tbody>
